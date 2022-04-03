@@ -5,5 +5,5 @@
 * __E-mail:__ alex.makovskaya@gmail.com
 
 ## Languages
-* _English:_ C1
-* _Russian:_ native
+* English: C1
+* Russian: native
